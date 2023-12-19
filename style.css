@@ -1,0 +1,19 @@
+*{
+    padding: 10p;
+    margin: 0px;
+    background-color: azure;
+}
+.cn{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-style: italic;
+}
+.dn{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+}
+.jn{
+    color: azure;
+}
